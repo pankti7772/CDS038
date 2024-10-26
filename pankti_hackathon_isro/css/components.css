@@ -1,0 +1,15 @@
+/* Common Components */
+.btn {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background-color: #1a237e;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 1rem;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #283593;
+}
